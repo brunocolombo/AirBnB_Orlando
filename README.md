@@ -28,6 +28,8 @@ Com o intuito de identificar os melhores tipos de propriedades, algumas pergunta
 ## Propriedades para Investimentos.
 Também incluso nos dados haviam 8 propriedades que estão a venda, analisaremos, se é rentavél a compra de alguma dessas propriedades, por meio de cáculos utilizando receita esperada, gastos com a propriedade, e cenário de baixa no mercado de aluguéis.
  
+![investment_properties_orlando](https://user-images.githubusercontent.com/77849519/232916925-ce3b3442-0fb3-499f-92da-416777b33bd2.png)
+
 
 ## Explorando e Transformando dados utilizando linguagem SQL
 ### 1. Unpivot da Tabela Receita Mensal
