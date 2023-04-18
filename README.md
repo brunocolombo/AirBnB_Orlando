@@ -26,7 +26,7 @@ Com o intuito de identificar os melhores tipos de propriedades, algumas pergunta
 **5 - Qual o melhor tipo de propriedade para se investir?**
 
 ## Propriedades para Investimentos.
-Também incluso nos dados haviam 8 propriedades que estão a venda, analisaremos, se é rentavél a compra de alguma dessas propriedades, por meio de cáculos utilizando receita esperada, gastos com a propriedade, e cenário de baixa no mercado de aluguéis.
+Também incluso nos dados haviam 8 propriedades que estão a venda, analisaremos, se é rentavél a compra de alguma dessas propriedades, por meio de cáculos utilizando receita esperada, gastos com a propriedade, entra + parcelas mensais(para a compra da propriedade), e cenário de baixa no mercado de aluguéis.
  
 ![investment_properties_orlando](https://user-images.githubusercontent.com/77849519/232916925-ce3b3442-0fb3-499f-92da-416777b33bd2.png)
 
@@ -45,6 +45,7 @@ UNPIVOT
 (revenue FOR MONTH IN (january, february, march, april, may, june, july, august,
 september, october, november, december));
 ```
+<img src="https://user-images.githubusercontent.com/77849519/232918502-3eb3d937-c69b-4a3b-a2f7-0b27073a47df.png" width="70%">
 
 ### 2. Unpivot da Tabela Taxa de Ocupação Mensal
 * A tabela se encontra no sentido horizontal do mesmo modo da tabela Receita Mensal, então faremos o mesmo processo de unpivot.
@@ -58,16 +59,14 @@ UNPIVOT
 (occupacy_rate FOR MONTH IN (january, february, march, april, may, june, july, august,
 september, october, november, december));
 ```
+<img src="https://user-images.githubusercontent.com/77849519/232919306-20e8ec92-0792-4740-bbab-2085f3e7556f.png" width="70%">
 
 ## Gráficos
 Os Gráficos foram criados a partir das tabelas 'Receita Mensal', 'Ocupação mensal', 'Airbnb_listings_orlando', 'Investment_properties' utilizando o **Tableau**.
 
-## Sumarização dos Resultados
+## Apresentação da Análise
+No arquivo em PDF a seguir se encontra toda a análise detalhada, com os gráficos gerados apartir dos dados, comparações de propriedades para investimento, e as conclusões chegadas ao final da análise.
 
-- As melhores propriedades são:;
 
 
 LinkedIn: [linkedin.com/in/bruno-colombo-/](https://www.linkedin.com/in/bruno-colombo-)
-
-
-![image]
