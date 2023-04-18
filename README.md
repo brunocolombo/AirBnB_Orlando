@@ -58,7 +58,7 @@ september, october, november, december));
 ```
 
 ## Gráficos
-Os Gráficos foram criados a partir das tabelas 'Receita Mensal', 'Ocupação mensal', 'Airbnb_listings_orlando', 'Investment_properties'.
+Os Gráficos foram criados a partir das tabelas 'Receita Mensal', 'Ocupação mensal', 'Airbnb_listings_orlando', 'Investment_properties' utilizando o **Tableau**.
 
 ## Sumarização dos Resultados
 
@@ -67,3 +67,5 @@ Os Gráficos foram criados a partir das tabelas 'Receita Mensal', 'Ocupação me
 
 LinkedIn: [linkedin.com/in/bruno-colombo-/](https://www.linkedin.com/in/bruno-colombo-)
 
+
+![image]
