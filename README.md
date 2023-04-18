@@ -66,7 +66,7 @@ Os Gráficos foram criados a partir das tabelas 'Receita Mensal', 'Ocupação me
 
 ## Apresentação da Análise
 No arquivo em PDF a seguir se encontra toda a análise detalhada, com os gráficos gerados apartir dos dados, comparações de propriedades para investimento, e as conclusões chegadas ao final da análise.
-
+https://github.com/brunocolombo/AirBnB_Orlando/blob/main/AirBnB_Orlando_Analysis.pdf
 
 
 LinkedIn: [linkedin.com/in/bruno-colombo-/](https://www.linkedin.com/in/bruno-colombo-)
